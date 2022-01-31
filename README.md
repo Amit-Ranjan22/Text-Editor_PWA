@@ -55,3 +55,11 @@ npm run dev
 
 <br />
 <br />
+
+**Following technologies is applied:**
+
+[<img src="./assets/images/node.svg" height="20px">](https://nodejs.org/en/) [<img src="./assets/images/express.svg" height="20px">](https://www.npmjs.com/package/express) [<img src="./assets/images/webpack.svg" height="20px">](https://webpack.js.org/)  
+[<img src="./assets/images/indexeddb.svg" height="20px">](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API) [<img src="./assets/images/babel.svg" height="20px">](https://babeljs.io/)
+
+<br />
+<br />
