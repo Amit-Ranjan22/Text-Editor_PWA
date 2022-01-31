@@ -33,6 +33,9 @@ export const putDb = async (content) => {
 export const getDb = async () => {
   const editsDb = await openDB("edits", 1);
   const tx = editsDb.transaction("edits", "readonly");
+  const store = tx.objectStore("edits");
+  const request = store.get(1);
+  const result = await request;
 
   result
     ? console.log("Data retrieved", result.value)
