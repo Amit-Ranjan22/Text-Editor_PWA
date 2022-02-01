@@ -22,7 +22,7 @@ JATE is not only a text editor that runs in the browser, but it is also a Progre
 <br />
 <br />
 
-## User Story
+## ✍️ User Story
 
 ```
 AS A developer
@@ -63,3 +63,36 @@ npm run dev
 
 <br />
 <br />
+
+## 🔌 Link to the deployed portfolio
+
+---
+
+- Text-Editor Link: [Text-Editor](https://git.heroku.com/whispering-bayou-56443.git)
+
+---
+
+## 🔌 Link to the Git-Hub repository
+
+---
+
+- GitHub Link: [
+  Text-Editor_PWA](https://github.com/Amit-Ranjan22/Text-Editor_PWA.git)
+
+---
+
+<h2 id='questions'>❓ Questions</h2>
+
+<h3>For any question you can reach me at:</h3>
+
+---
+
+<h3>😺GitHub: <a href='https://github.com/Amit-Ranjan22'>Amit-Ranjan22</a></h3>
+
+<h3>📩 Email: <a href='https://mail.google.com/'>amitabh.march22@gmail</a></h3>
+
+---
+
+## ©️ License & Copyright
+
+Licensed under the [MIT License](License-Copyright/LICENSE).
