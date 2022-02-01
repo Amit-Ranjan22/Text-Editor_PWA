@@ -1,6 +1,6 @@
 # Text-Editor_PWA
 
-<img src="Develop/client/src/images/logo.png" width = "250">
+<img src="client/src/images/logo.png" width = "250">
 
 ## Table of Contents
 
@@ -58,8 +58,8 @@ npm run dev
 
 **Following technologies is applied:**
 
-[<img src="./assets/images/node.svg" height="20px">](https://nodejs.org/en/) [<img src="./assets/images/express.svg" height="20px">](https://www.npmjs.com/package/express) [<img src="./assets/images/webpack.svg" height="20px">](https://webpack.js.org/)  
-[<img src="./assets/images/indexeddb.svg" height="20px">](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API) [<img src="./assets/images/babel.svg" height="20px">](https://babeljs.io/)
+[<img src="Assets/images/node.svg" height="20px">](https://nodejs.org/en/) [<img src="Assets/images/express.svg" height="20px">](https://www.npmjs.com/package/express) [<img src="Assets/images/webpack.svg" height="20px">](https://webpack.js.org/)  
+[<img src="Assets/images/indexeddb.svg" height="20px">](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API) [<img src="Assets/images/babel.svg" height="20px">](https://babeljs.io/)
 
 <br />
 <br />
