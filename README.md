@@ -68,7 +68,7 @@ npm run dev
 
 ---
 
-- Text-Editor Link: [Text-Editor](https://git.heroku.com/whispering-bayou-56443.git)
+- Heroku Link: [Text-Editor](https://mysterious-wildwood-77908.herokuapp.com/)
 
 ---
 
